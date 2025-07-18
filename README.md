@@ -1,1 +1,1 @@
-For the time beeing the python functions regarding the Q-learning and SARSA agents and the heuristic improvement algorithm I choose to remain private. Nevertheless, within the published thesis there is detailed pseudocode regarding these functions.
+For the time beeing the python functions regarding the Q-learning and SARSA agents as well as the heuristic improvement algorithm I choose to keep private. Nevertheless, within the published thesis there is detailed pseudocode regarding these functions.
